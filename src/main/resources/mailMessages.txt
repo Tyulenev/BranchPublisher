@@ -1,0 +1,7 @@
+Шаблоны сообщений отчета о публикации
+params.mail.FailPublishing.ReportTiltle=Ошибка при публикации отделения
+params.mail.WarningPublishing.ReportTiltle=Вышел таймаут ожидания публикации
+params.mail.OkPublishing.ReportTiltle=УСПЕХ
+params.mail.FailPublishing.ReportBody=Ошибка при публикации отделения (тело письма)
+params.mail.WarningPublishing.ReportBody=Вышел таймаут ожидания публикации (тело письма)
+params.mail.OkPublishing.ReportBody=Успешная публикация отделения

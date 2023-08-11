@@ -1,0 +1,3 @@
+<logger name="org.hibernate">
+    <level value="error"/>
+</logger>
